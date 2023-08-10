@@ -1,0 +1,33 @@
+{
+    "works": [
+        {
+            "id": 1,
+            "title": "Hadda",
+            "body": "Bonjour"
+        }, 
+        {
+            "id": 2,
+            "title": "Yakine",
+            "body": "Bonjour"
+        }, 
+        {
+            "id": 3,
+            "title": "Fatma",
+            "body": "Bonjour"
+        }   
+    ], 
+    "portfolio": [
+        {
+            "id": 1,
+            "image": "/images/logo.png"
+        },
+        {
+            "id": 2,
+            "image": "/images/logo.png"
+        },
+        {
+            "id": 3,
+            "image": "/images/logo.png"
+        }
+    ]
+}
